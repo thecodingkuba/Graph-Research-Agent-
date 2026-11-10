@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (raw downloads, processed graphs, embeddings)
+/data/
